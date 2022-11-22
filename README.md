@@ -2,14 +2,7 @@
 
 A machine learning model for solving Wordle puzzles.
 
-## Getting Started
-
-Create an environment and install dependencies with `conda`
-
-```
-conda env create --file environment.yml
-pre-commit install
-```
+I am continuing this project using Google Colab and TF-Agents, an TensorFlow library that is used for DQN reinforcement learning.
 
 ## Design Documents
 
@@ -21,3 +14,4 @@ Documentation links to tools used in the project
 
 - [Miro](https://miro.com/index/): Design documents and brainstorming
 - [TensorFlow](https://www.tensorflow.org/overview/): Neural Network Library
+- [TF-Agents](https://www.tensorflow.org/agents): TensorFlow library for reinforcement learning
