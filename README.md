@@ -14,3 +14,4 @@ Documentation links to tools used in the project
 
 - [Miro](https://miro.com/index/): Design documents and brainstorming
 - [TensorFlow](https://www.tensorflow.org/overview/): Neural Network Library
+- [TF-Agents](https://www.tensorflow.org/agents): TensorFlow library for reinforcement learning
