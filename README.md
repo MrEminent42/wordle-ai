@@ -2,15 +2,6 @@
 
 A machine learning model for solving Wordle puzzles.
 
-## Getting Started
-
-Create an environment and install dependencies with `conda`
-
-```
-conda env create --file environment.yml
-pre-commit install
-```
-
 ## Design Documents
 
 - [Miro Whiteboard](https://miro.com/app/board/uXjVO9nw1I4=/?share_link_id=592292209117)
